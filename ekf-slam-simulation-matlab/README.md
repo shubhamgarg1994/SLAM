@@ -3,14 +3,6 @@ Overview
 
 SLAM simulator in MATLAB that uses a graphical interface for visualisation and allows manual mapping of rooms and obstacles.
 
-Copyright Info
-=============
-
-Some of the code included has been adapted from other software. They are acknowledged as follows:
-* Code for Jacobian transformations was adapted from a SLAM course by Joan Sola (http://www.joansola.eu/JoanSola/eng/course.html)
-* ICP algorithm in doICP.m was adapted from code written by Ajmal Saeed Mian (relevant copyright informtion included in the file).
-* Any 3rd party code that has been untouched is in the folder 3rd-party
-
 Instructions
 ============
 1. Navigate to the root folder and run setup.m (you can just type 'setup' in the command window).
